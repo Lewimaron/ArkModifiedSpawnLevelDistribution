@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Changes to spawn level distribution on The Island and Scorched Earth to match the official spawn level distribution on Ragnarok and The Center.
+Changes to spawn level distribution on all maps to match the official spawn level distribution on Ragnarok and The Center.
 
 The Island (Official)
 ![The Island Official](https://user-images.githubusercontent.com/408350/31574077-00ba5c90-b0c8-11e7-96f5-2c0cb54fcd6b.png)
