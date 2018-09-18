@@ -15,21 +15,17 @@ The Island (with plugin)
 
 ## Download
 
-https://github.com/tsebring/ArkModifiedSpawnLevelDistribution/releases
+https://github.com/Lewimaron/ArkModifiedSpawnLevelDistribution/releases
 
 ## Installation
 
-* Install ARK Beyond API (forked by me) on your server.
-* Copy/extract plugin to `BeyondApi/Plugins/ArkModifiedSpawnLevelDistribution`.
+* Install ARK Server API on your server.
+* Copy/extract plugin to `ARKAPI/Plugins/ArkModifiedSpawnLevelDistribution`.
 
 ## Acknowledgements
 
-This plugin is based on Michidu's work on Ark-Server-Plugins and ARK Beyond API. The basic plumbing code is copied directly from those plugins.
+This plugin is a fork of TSebrings original. All code is his except the changes to get it working on the new API.
 
 ## Links
 
-My ARK Beyond API Fork (https://github.com/tsebring/ARK-Server-Beyond-API)
-
-ARK Beyond API by Michidu (https://github.com/Michidu/ARK-Server-Beyond-API)
-
-Ark-Server-Plugins (https://github.com/Michidu/Ark-Server-Plugins)
+ARK Server API by Michidu (https://arkserverapi.com/resources/ark-server-api.4/)
